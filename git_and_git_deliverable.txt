@@ -1,0 +1,3 @@
+https://github.com/Jaavion/hello-world.git
+
+I never really understand the merge method in github. 
